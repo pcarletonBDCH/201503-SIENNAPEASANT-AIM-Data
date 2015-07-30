@@ -28,18 +28,18 @@
   </Configurations>
   <DTSPackages>
     <DtsPackage FormatVersion="3">
-      <Name>AIMImport.dtsx</Name>
-      <FullPath>AIMImport.dtsx</FullPath>
+      <Name>FO34a AIMImport.dtsx</Name>
+      <FullPath>FO34a AIMImport.dtsx</FullPath>
       <References />
     </DtsPackage>
     <DtsPackage FormatVersion="3">
-      <Name>PreppedConsExport.dtsx</Name>
-      <FullPath>PreppedConsExport.dtsx</FullPath>
+      <Name>FO34b PreppedConsExport.dtsx</Name>
+      <FullPath>FO34b PreppedConsExport.dtsx</FullPath>
       <References />
     </DtsPackage>
     <DtsPackage FormatVersion="3">
-      <Name>PreppedIRExport.dtsx</Name>
-      <FullPath>PreppedIRExport.dtsx</FullPath>
+      <Name>FO34c PreppedIRExport.dtsx</Name>
+      <FullPath>FO34c PreppedIRExport.dtsx</FullPath>
       <References />
     </DtsPackage>
   </DTSPackages>
